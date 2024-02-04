@@ -3,3 +3,5 @@
 source "https://rubygems.org"
 
 gemspec
+
+gem "jekyll-watch", "~> 2.2"
